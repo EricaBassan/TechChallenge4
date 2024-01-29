@@ -66,13 +66,13 @@ st.divider()
 Um Dahsboard interativo foi criado para analisar insights a respeito do nosso Dataset.
 
 '''
-st.image(load_img('Images/Dashboard_1.png'))
-st.image(load_img('Images/Dashboard_2.png'))
+st.image(load_img('Images/Dashboard_1.PNG'))
+st.image(load_img('Images/Dashboard_2.PNG'))
 '''
 A primeira analise diz respeito o valor do preço do petróleo ao longo do anos. Podemos observar diversos movimentos politicos/sociais que contribuiram para a alteração do valor do petróleo.
 
 '''
-st.image(load_img('Images/historia_preco_petroleo.png'))
+st.image(load_img('Images/historia_preco_petroleo.PNG'))
 '''
 A figura acima destaca os principais eventos responsáveis por influenciar o valor do petróleo brent, sendo eles:
 
@@ -89,11 +89,11 @@ A figura acima destaca os principais eventos responsáveis por influenciar o val
 
 Essses conflitos influenciaram o mercado, pois foram protagonizados pelos grande produtores de Petroleo (conforme imagem abaixo):
 '''
-st.image(load_img('Images/producao-petroleo.png'))
+st.image(load_img('Images/producao-petroleo.pPNG'))
 '''
 Sendo os Estados Unidos o principal produtor de petróleo atualmente, suas ações políticas influenciam diretamente o valor do brent, assim como o valor do dólar, por exemplo.
 '''
-st.image(load_img('Images/comparacao-dolar-petroleo.png'))
+st.image(load_img('Images/comparacao-dolar-petroleo.PNG'))
 '''
 O gráfico acima, compara o valor da cotação do dólar, com o valor do brent de petróleo.
 Podemos ver que de modo geral, são inversamente proporcionais.
@@ -104,7 +104,7 @@ O trecho anterior foi extraído de uma entrevista da Revista Exame e explica o m
 O Dashboard ainda conta com uma visão dos principais países consumidores de petróleo, sendo o top 3: Estados Unidos, China e Índia.
 
 '''
-st.image(load_img('Images/consumo-petroleo.png'))
+st.image(load_img('Images/consumo-petroleo.PNG'))
 '''
 
 Podemos ver que além de serem 3 países extremamente populosos, são nações que não contam com outras fontes de energia/combustível.
