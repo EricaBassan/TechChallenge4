@@ -73,7 +73,7 @@ Tal processo foi realizado com o intuito de que sempre houvessem dados disponní
 Abaixo, podemos ver a organização da tabela do IPEA no banco de dados:
 
 '''
-st.image(load_img('Images/Tbl_Ipea_BigQuery.png'))
+st.image(load_img('Images/Tbl_Ipea_BigQuery.PNG'))
 '''
 Os dados armazenados posteriormente foram utilizados para construção de um modelo e um Dashboard.
 
