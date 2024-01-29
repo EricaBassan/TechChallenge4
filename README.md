@@ -7,7 +7,7 @@ Repositório criado para o tech challenge 4 do curso de data analytics da FIAP
 
 <p align="center">
   <a href="">
-    <img src="Petroleo.jpg"
+    <img src="Images/Petroleo.jpg"
          alt="version">
   </a>
 
