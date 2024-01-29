@@ -89,7 +89,7 @@ A figura acima destaca os principais eventos responsáveis por influenciar o val
 
 Essses conflitos influenciaram o mercado, pois foram protagonizados pelos grande produtores de Petroleo (conforme imagem abaixo):
 '''
-st.image(load_img('Images/producao-petroleo.pPNG'))
+st.image(load_img('Images/producao-petroleo.PNG'))
 '''
 Sendo os Estados Unidos o principal produtor de petróleo atualmente, suas ações políticas influenciam diretamente o valor do brent, assim como o valor do dólar, por exemplo.
 '''
