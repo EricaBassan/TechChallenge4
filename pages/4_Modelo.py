@@ -71,20 +71,20 @@ st.image(load_img('Images/Previsão.png'))
 Seus erros calculados, ficaram dentro da magem desejável, e possuem um Erro Médio Percentual Absoluto Ponderado, de 13.96%.
 
 '''
-st.image(load_img('Images/perfomance-modelo1.png'))
-st.image(load_img('Images/perfomance-modelo2.png'))
+st.image(load_img('Images/perfomance-modelo1.PNG'))
+st.image(load_img('Images/perfomance-modelo2.PNG'))
 
 
 '''
 Seus resultados foram salvos em um arquivo .csv e em seguida, incluímos esses dados em uma tabela do Big Query.
 '''
-st.image(load_img('Images/Tbl_Previsao_BigQuery.png'))
+st.image(load_img('Images/Tbl_Previsao_BigQuery.PNG'))
 '''
 
 Os dados de previsão alimentados no GCP, foram utilizados posteriormente em um Dashboard.
 
 '''
-st.image(load_img('Images/previsao-petroleo.png'))
+st.image(load_img('Images/previsao-petroleo.PNG'))
 
 '''
 
